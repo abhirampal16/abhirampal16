@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhirampal16
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning sql
+
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me ...
 
