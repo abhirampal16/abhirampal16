@@ -12,8 +12,7 @@
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 💬 Ask me about **Machine Learning, Computer Vision, Deep Learning**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
