@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhi Rampal</h1>
-<h3 align="center">A passionate Machine Learning Expert</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhirampal16" alt="abhirampal16" /></a> </p>
 
