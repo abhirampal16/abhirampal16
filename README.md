@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on **Data Science & Analytics Engineering Projects**
 
-- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
