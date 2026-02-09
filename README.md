@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 💬 Ask me about **Machine Learning, Computer Vision, Deep Learning**
-- 
+
 <p align="left">
 </p>
 
