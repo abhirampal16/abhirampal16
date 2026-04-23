@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Abhi Rampal</h1>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhirampal16&theme=flat&no-frame=true" />
-  </a>
+  <b> Analytics Engineer | Data Engineering | Machine Learning | Building Scalable Data Systems</b>
 </p>
 
-- 🔭 I’m currently working on **Data Science & Analytics Engineering Projects**
-- 👯 I’m looking to collaborate on **Machine Learning & Data Projects**
-- 🌱 I’m interested in learning more about **Analytics Engineering (AE), Data Engineering (DE), and Agentic AI**
+<p align="center">
+  💡 Mechanical Engineer by training → Evolved through Supply Chain → Now building in Analytics, Data Science & Analytics Engineering  
+  ⚙️ Building production-grade data systems using SQL, Python, dbt, Snowflake, BigQuery & Airflow, Vertex AI
+</p>
 
-<!---
-abhirampal16/abhirampal16 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+---
+
+## 🧠 About Me
+
+- 🏦 Built **data systems** in supply chain / fintech / wealth management domains
+- ⚙️ Strong focus on **data modeling, pipelines, governance & metric standardization**  
+- 🔁 Experienced in **ELT pipelines, orchestration (Airflow), and modern data stack (dbt/Dataform)**  
+- 🤖 Exploring **Agentic AI, RAG systems & AI-assisted development workflows**  
+
+
+---
